@@ -1,9 +1,5 @@
-const about_me = {
-    name: 'Makanjuola Oluwafemi',
-    height: '6.1 inches',
-    country: 'Nigeria',
-}
+const myName = "Makanjuola Oluwafemi";
+const myHeight = "198 cm";
+const myCountry = "Nigeria";
 
-alert(
-    `My name is ${about_me.name} , i am ${aboutme_height} tall and i  am from ${about_me.country}.`
-);
+alert(`My name is ${myName}\nMy height is ${myHeight}\nMy country is ${myCountry}`)
